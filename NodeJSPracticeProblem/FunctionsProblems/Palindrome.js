@@ -10,7 +10,7 @@ function palindrome() {
     }
     console.log(newNum);
 }
-let num2 = ((palindrome)(num));
+let num2 = ((palindrome(num);
 if (num == num2){
     console.log("Number is Palindrome...");
 }
